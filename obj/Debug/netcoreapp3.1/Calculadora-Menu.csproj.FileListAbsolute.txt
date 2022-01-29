@@ -1,0 +1,13 @@
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\obj\Debug\netcoreapp3.1\Calculadora-Menu.csprojAssemblyReference.cache
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\obj\Debug\netcoreapp3.1\Calculadora-Menu.AssemblyInfoInputs.cache
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\obj\Debug\netcoreapp3.1\Calculadora-Menu.AssemblyInfo.cs
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\obj\Debug\netcoreapp3.1\Calculadora-Menu.csproj.CoreCompileInputs.cache
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\bin\Debug\netcoreapp3.1\Calculadora-Menu.exe
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\bin\Debug\netcoreapp3.1\Calculadora-Menu.deps.json
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\bin\Debug\netcoreapp3.1\Calculadora-Menu.runtimeconfig.json
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\bin\Debug\netcoreapp3.1\Calculadora-Menu.runtimeconfig.dev.json
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\bin\Debug\netcoreapp3.1\Calculadora-Menu.dll
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\bin\Debug\netcoreapp3.1\Calculadora-Menu.pdb
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\obj\Debug\netcoreapp3.1\Calculadora-Menu.dll
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\obj\Debug\netcoreapp3.1\Calculadora-Menu.pdb
+C:\Users\moise\source\repos\Calculadora-Menu\Calculadora-Menu\obj\Debug\netcoreapp3.1\Calculadora-Menu.genruntimeconfig.cache
